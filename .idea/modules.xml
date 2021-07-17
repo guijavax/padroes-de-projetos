@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/factory-method/factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/padrao-chain-of-responsability/padrao-chain-of-responsability.iml" filepath="$PROJECT_DIR$/padrao-chain-of-responsability/padrao-chain-of-responsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/padrao-singleton/padrao-singleton.iml" filepath="$PROJECT_DIR$/padrao-singleton/padrao-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/padrao-strategy/padrao-strategy.iml" filepath="$PROJECT_DIR$/padrao-strategy/padrao-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/padroes-de-projetos.iml" filepath="$PROJECT_DIR$/.idea/padroes-de-projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-method/template-method.iml" filepath="$PROJECT_DIR$/template-method/template-method.iml" />
+    </modules>
+  </component>
+</project>
